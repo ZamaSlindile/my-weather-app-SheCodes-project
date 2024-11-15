@@ -55,18 +55,18 @@ main {
     display: flex;
 }
 .weather-icon {
-    font-size: 44px;
-    margin-top: 28px;
+    width: 88px;
+    height: 88px;
 }
 
 .temperature-container {
     font-size: 80px;
     font-weight: bold;
-     margin-left: 10px;
+    line-height: 88px;
 }
 
 .weather-celcuis {
-    margin-top: 15px;
+    margin-top: 6px;
     font-size: 28px;
 }
 
